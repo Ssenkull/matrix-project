@@ -1,0 +1,20 @@
+.variants{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.variants-btn{
+    margin-right: 20px;
+    background-color: #fff;
+    font-family: "SFUIDisplay";
+    color: rgb(12, 12, 12);
+    line-height: 1.2;
+    font-size: 18px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+
+  
